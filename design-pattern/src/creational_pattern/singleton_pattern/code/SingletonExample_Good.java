@@ -1,4 +1,4 @@
-package singleton_pattern.code;
+package creational_pattern.singleton_pattern.code;
 
 /**
  * This is a good approach but not the best

@@ -1,4 +1,4 @@
-package singleton_pattern.code;
+package creational_pattern.singleton_pattern.code;
 
 /**
  * This class will always create the instance during startup
